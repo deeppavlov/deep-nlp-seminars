@@ -5,7 +5,7 @@ Materials for deep NLP course.
 
 Seminars plan:
 
-| Theme         | Date          |
-| ------------- |:-------------:| 
-| Intro| 05.10.2017 | 
-| Word Embeddings I     | 19.10.2017      |
+| Theme         | Date          | Video | Homework |
+| ------------- |:-------------:| :------: |:--:|
+| Intro| 05.10.2017 | [video](https://www.youtube.com/watch?v=Vn9l_Hl0uEY) | [hw](./seminar_01/intro.ipynb) |
+| Word Embeddings I     | 19.10.2017      | | |
