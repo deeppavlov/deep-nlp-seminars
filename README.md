@@ -1,7 +1,10 @@
 # deep-nlp-seminars
+_Please, do not share your task solutions on GitHub or anywhere else!_
+
 Materials for deep NLP course.
 
 * Deadline for the first task is __19.10.2017__ 17:00 MSK.
+* Deadline for the second task is __26.10.2017__ 19:00 MSK.
 
 Seminars plan:
 
