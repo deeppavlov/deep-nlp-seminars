@@ -5,6 +5,7 @@ Materials for deep NLP course.
 
 * Deadline for the first task is __19.10.2017__ 17:00 MSK.
 * Deadline for the second task is __26.10.2017__ 19:00 MSK.
+* Deadline for the fourth task is __09.11.2017__ 19:00 MSK.
 
 Seminars plan:
 
