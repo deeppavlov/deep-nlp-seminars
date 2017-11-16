@@ -15,3 +15,6 @@ Seminars plan:
 | Word Embeddings I     | 19.10.2017      | [video](https://www.youtube.com/watch?v=LC136_acGQ0) | [hw](./seminar_02/embeddings.ipynb) (__26.10.2017__) |
 | Word Embeddings II     | 26.10.2017      | [video](https://www.youtube.com/watch?v=bUg6TBYrBLI) | |
 | Word Window Classification     | 02.11.2017      | [video](https://www.youtube.com/watch?v=82kPuHORP1Q) | [hw](./seminar_04/simple_nn.ipynb) (__09.10.2017__) |
+| RNNs     | 16.11.2017      | | [hw](./seminar_06/RNN_intro.ipynb) (__23.11.2017__) |
+
+
