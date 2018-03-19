@@ -9,10 +9,11 @@ Please, register your project [here](https://docs.google.com/forms/d/e/1FAIpQLSc
 * Deadline for 2nd quiz is __28.02.2018__ 19:00 MSK.
 * Deadline for 3rd quiz is __07.03.2018__ 19:00 MSK.
 * Deadline for 2nd homework is __14.03.2018__ 19:00 MSK.
-* Deadline for 4th quiz is __28.03.2018__ 19:00 MSK.
+* Deadline for 4th quiz is __14.03.2018__ 19:00 MSK.
+* Deadline for 5th quiz is __28.03.2018__ 19:00 MSK.
 * Deadline for 3rd homework is __28.03.2018__ 19:00 MSK.
 
-To get your mark for a quiz you should check 25 questions. To get your marks for a homework, your should check 5 homeworks from other people.
+To get your mark for a quiz you should check 20 questions. To get your marks for a homework, your should check 3 homeworks from other people.
 
 Seminars plan:
 
