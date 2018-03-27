@@ -26,7 +26,7 @@ def eval_numerical_gradient(f, x, verbose=True, h=0.00001):
     # compute the partial derivative with centered formula
     grad[ix] = (fxph - fxmh) / (2 * h) # the slope
     if verbose:
-      print ix, grad[ix]
+      print(ix, grad[ix])
     it.iternext() # step to next dimension
 
   return grad
@@ -120,5 +120,5 @@ def grad_check_sparse(f, x, analytic_grad, num_checks=10, h=1e-5):
     grad_numerical = (fxph - fxmh) / (2 * h)
     grad_analytic = analytic_grad[ix]
     rel_error = abs(grad_numerical - grad_analytic) / (abs(grad_numerical) + abs(grad_analytic))
-    print 'numerical: %f analytic: %f, relative error: %e' % (grad_numerical, grad_analytic, rel_error)
+    print('numerical: {:f} analytic: {:f}, relative error: {:e}'.format(grad_numerical, grad_analytic, rel_error))
 
