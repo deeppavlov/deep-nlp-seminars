@@ -12,6 +12,9 @@ Please, register your project [here](https://docs.google.com/forms/d/e/1FAIpQLSc
 * Deadline for 4th quiz is __14.03.2018__ 19:00 MSK.
 * Deadline for 5th quiz is __28.03.2018__ 19:00 MSK.
 * Deadline for 3rd homework is __28.03.2018__ 19:00 MSK.
+* Deadline for 7th quiz is __11.04.2018__ 19:00 MSK.
+* Deadline for 4th homework is __11.04.2018__ 19:00 MSK.
+
 
 To get your mark for a quiz you should check 20 questions. To get your marks for a homework, your should check 3 homeworks from other people.
 
@@ -23,5 +26,6 @@ Seminars plan:
 | Word Embeddings I | 28.02.2018 | [video](https://www.youtube.com/watch?v=keEgNvtTIfc) | [hw](./seminar_02/embeddings.ipynb) (__14.03.2018__) |
 | Word Embeddings II | 07.03.2018 | [video](https://www.youtube.com/watch?v=iyPJEsQhDZ4) | |
 | Word Window Classification and Neural Networks | 14.03.2018 | [video](https://www.youtube.com/watch?v=6M6LP2aQsQc) | [hw](./seminar_04/simple_nn.ipynb) (__28.03.2018__) |
- 
+| BackProp + Practical Tips | 28.03.2018 | [video](https://www.youtube.com/watch?v=KQX_R7JMoUs) ||
+| RNNs     | 04.04.2018      |[video](https://www.youtube.com/watch?v=uPMj1obrAx0) | [hw](./seminar_06/RNN_intro.ipynb) (__11.04.2018__) | 
 
