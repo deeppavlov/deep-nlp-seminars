@@ -14,6 +14,7 @@ Please, register your project [here](https://docs.google.com/forms/d/e/1FAIpQLSc
 * Deadline for 3rd homework is __28.03.2018__ 19:00 MSK.
 * Deadline for 7th quiz is __11.04.2018__ 19:00 MSK.
 * Deadline for 4th homework is __11.04.2018__ 19:00 MSK.
+* Deadline for 5th homework is __16.05.2018__ 19:00 MSK.
 
 
 To get your mark for a quiz you should check 20 questions. To get your marks for a homework, your should check 3 homeworks from other people.
@@ -28,4 +29,6 @@ Seminars plan:
 | Word Window Classification and Neural Networks | 14.03.2018 | [video](https://www.youtube.com/watch?v=6M6LP2aQsQc) | [hw](./seminar_04/simple_nn.ipynb) (__28.03.2018__) |
 | BackProp + Practical Tips | 28.03.2018 | [video](https://www.youtube.com/watch?v=KQX_R7JMoUs) ||
 | RNNs     | 04.04.2018      |[video](https://www.youtube.com/watch?v=uPMj1obrAx0) | [hw](./seminar_06/RNN_intro.ipynb) (__11.04.2018__) | 
+| Attentive Translation     | 25.04.2018      |[video](https://www.youtube.com/watch?v=LhH6wMvntSM) | [hw](./seminar_08/attentive_translation.ipynb) (__16.05.2018__) | 
+
 
